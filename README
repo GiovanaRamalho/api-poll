@@ -1,0 +1,8 @@
+--> Para startar o servidor ->
+--npm run dev
+
+--> Para Subir o container do Docker ->
+-- sudo docker compose up -d
+
+--> Para criar uma nova migration -->
+-- npx prisma migrate dev
